@@ -6,7 +6,7 @@
 <p align="center">
 I'm a college student who loves building cool and meaningful stuff with code.<br>
 Currently focused on leveling up in web development.<br>
-Always eager to explore new tech and push my limits 🚀
+Always eager to explore new tech and push my limits.
 </p>
 
 ---
