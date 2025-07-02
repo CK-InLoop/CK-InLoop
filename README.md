@@ -56,16 +56,18 @@ Always eager to explore new tech and push my limits.
 
 ---
 
-### 📊 Contribution Graph
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CK-InLoop&theme=react-dark&hide_border=true" />
 </p>
 
-
 ---
 
-### 📬 Connect with Me
+## 📬 Reach Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/chandni-k-71194125a/)
+<p align="left">
+  <a href="https://www.linkedin.com/in/chandni-k-71194125a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
 - 📧 Email: ckakadiya1105@gmail.com
