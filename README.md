@@ -4,8 +4,8 @@
 
 
 <p align="center">
-I'm a college student who enjoys solving problems and building exciting projects.<br>
-Currently focused on cracking DSA and leveling up in full-stack development.<br>
+I'm a college student who loves building cool and meaningful stuff with code.<br>
+Currently focused on leveling up in web development.<br>
 Always eager to explore new tech and push my limits 🚀
 </p>
 
