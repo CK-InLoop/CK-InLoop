@@ -63,8 +63,9 @@ Always eager to explore new tech and push my limits 🚀
 ### 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=CK-InLoop&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CK-InLoop&theme=react-dark&hide_border=true" />
 </p>
+
 
 ---
 
