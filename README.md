@@ -1,7 +1,19 @@
 <h1 align="center">
-  Hey there! <img src="https://em-content.zobj.net/thumbs/240/apple/354/waving-hand_1f44b.png" width="30px" alt="wave" />
+  Hey there! <span style="display:inline-block; animation: wave 2s infinite;">👋</span>
 </h1>
 
+<style>
+@keyframes wave {
+  0% { transform: rotate(0deg); }
+  10% { transform: rotate(14deg); }
+  20% { transform: rotate(-8deg); }
+  30% { transform: rotate(14deg); }
+  40% { transform: rotate(-4deg); }
+  50% { transform: rotate(10deg); }
+  60% { transform: rotate(0deg); }
+  100% { transform: rotate(0deg); }
+}
+</style>
 
 <p align="center">
 I'm a college student who loves building cool and meaningful stuff with code.<br>
@@ -11,42 +23,54 @@ Always eager to explore new tech and push my limits.
 
 ---
 
-### 🧰 Tech Toolbox
+### 🧠 Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,cpp,python" />
+</p>
 
-## 🚧 Currently Learning
+---
+
+### 🌐 Web Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,bootstrap,dotnet,php,html,tailwind" />
+</p>
+
+---
+
+### 📱 Application Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,dart" />
+</p>
+
+---
+
+### 🗄️ Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgres" />
+</p>
+
+---
+
+### 🛠️ Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+---
+
+### 🎨 UI/UX
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma" />
+</p>
+
+---
+
+### 🚧 Currently Learning
 <p align="left">
   <img src="https://skillicons.dev/icons?i=threejs" alt="threejs" />
 </p>
 
 ---
-
-## 🎨 Front-end Technologies
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,sass,tailwind" />
-</p>
-
----
-
-## 🛠️ Back-end Technologies
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,php,mysql,postgres" />
-</p>
-
----
-
-## 🌐 Other Technologies I’m Familiar With
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,bootstrap,vercel,heroku,aws,firebase,mongodb,python,rails,puppeteer" />
-</p>
-
----
-
-## 🧰 Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,git,postman,linux,figma,xd,ai,ps" />
-</p>
-
-
 
 ### 📈 GitHub Stats
 
