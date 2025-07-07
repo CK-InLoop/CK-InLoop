@@ -2,10 +2,6 @@
   Hey there! <span style="display:inline-block; animation: wave 2s infinite;">👋</span>
 </h1>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=CK-InLoop&color=blue" alt="Profile views" style="display:none;" />
-</p>
-
 <p align="center">
 I'm a college student who loves building cool and meaningful stuff with code.<br>
 Currently focused on leveling up my web development.<br>
@@ -90,3 +86,5 @@ Always eager to explore new tech and push my limits.
   <img src="https://img.icons8.com/ios-filled/50/ffffff/x.png" width="40" alt="Twitter" />
 </a>
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=CK-InLoop&color=blue" alt="Profile views" width="1" height="1" />
