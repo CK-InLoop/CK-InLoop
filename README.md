@@ -79,7 +79,9 @@ Always eager to explore new tech and push my limits.
   <a href="https://www.linkedin.com/in/chandni-k-71194125a/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40">
   </a>
-
+  <a href="mailto:ckakadiya1105@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 - 📧 Email: ckakadiya1105@gmail.com
