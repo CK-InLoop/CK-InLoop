@@ -82,4 +82,7 @@ Always eager to explore new tech and push my limits.
   <a href="mailto:ckakadiya1105@gmail.com" target="_blank">
     <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="40" height="40" alt="Email" />
   </a>
+  <a href="https://twitter.com/ckakadiya66" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" alt="Twitter" />
+</a>
 </p>
