@@ -77,9 +77,6 @@ Always eager to explore new tech and push my limits.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/chandni-k-71194125a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/chandni-k-71194125a/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40">
   </a>
 
