@@ -2,7 +2,7 @@
   Hey there! <span style="display:inline-block; animation: wave 2s infinite;">👋</span>
 </h1>
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=CK-InLoop&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=CK-InLoop&color=blue" alt="Profile views" style="display:none;" />
 </p>
 
 <p align="center">
