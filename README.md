@@ -1,6 +1,9 @@
 <h1 align="center">
   Hey there! <span style="display:inline-block; animation: wave 2s infinite;">👋</span>
 </h1>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=CK-InLoop&color=blue" alt="Profile views" />
+</p>
 
 <p align="center">
 I'm a college student who loves building cool and meaningful stuff with code.<br>
