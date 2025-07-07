@@ -12,7 +12,7 @@ Always eager to explore new tech and push my limits.
 
 ### 🧠 Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,cpp,python" />
+  <img src="https://skillicons.dev/icons?i=js,cpp,python,dart" />
 </p>
 
 ---
