@@ -2,6 +2,10 @@
   Hey there! <span style="display:inline-block; animation: wave 2s infinite;">👋</span>
 </h1>
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=CK-InLoop&color=blue" alt="Profile views" style="display:none;" />
+</p>
+
 <p align="center">
 I'm a college student who loves building cool and meaningful stuff with code.<br>
 Currently focused on leveling up my web development.<br>
